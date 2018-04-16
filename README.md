@@ -1,2 +1,2 @@
 # count-to-bot
-A simple bot that will allow you to do the Count To challenges much faster. It will write all the numbers to whatever you set and press enter between each one.
+A simple bot that will allow you to do the Count To challenges much faster. It will write all the numbers to whatever you set and press enter between each one. This is for discord or skype groups that do challenges to type all the numbers to a certain number. With this you can easily impress all your friends making them thing you did it. You need to install pyautogui to use it. Do pip install pyautogui and you are ready to run this program.
